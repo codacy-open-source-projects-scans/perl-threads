@@ -1,7 +1,7 @@
-# perl-threads - develop branch
+# threads
+The core module that provides threading support for Perl.
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
+This module is dual-lived in both the core Perl distribution and on CPAN.
 
-Commit Time: 1734571464
+Detailed information regarding this module can be found on [MetaCPAN](https://metacpan.org/pod/threads).
+
